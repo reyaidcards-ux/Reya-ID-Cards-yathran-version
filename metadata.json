@@ -1,0 +1,6 @@
+{
+  "name": "Reya ID Cards",
+  "description": "Professional ID card ordering app for dealers and clients with price lists, card file uploads, and WhatsApp support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
